@@ -66,7 +66,7 @@ void setup() { //set outputs and inputs
   pinMode(s1_0, OUTPUT);pinMode(s1_1, OUTPUT);pinMode(s1_2, OUTPUT); // tens sec
   
   pinMode(m0_0, OUTPUT);pinMode(m0_1, OUTPUT);pinMode(m0_2, OUTPUT);pinMode(m0_3, OUTPUT); //units min
-  pinMode(m1_0, OUTPUT);pinMode(m1_1 OUTPUT);pinMode(m1_2, OUTPUT); //tens min
+  pinMode(m1_0, OUTPUT);pinMode(m1_1, OUTPUT);pinMode(m1_2, OUTPUT); //tens min
   
   pinMode(h0_0, OUTPUT);pinMode(h0_1, OUTPUT);pinMode(h0_2, OUTPUT);pinMode(h0_3, OUTPUT); //units hr
   pinMode(h1_0, OUTPUT);pinMode(h1_1, OUTPUT); //tens hr
